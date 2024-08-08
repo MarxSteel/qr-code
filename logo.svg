@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100">
+  <defs>
+    <style>
+      .text {
+        font-family: Arial Black, sans-serif;
+        font-size: 50px;
+        fill: #333;
+        text-anchor: middle;
+      }
+      .steel {
+        fill: #666;
+      }
+    </style>
+  </defs>
+  <g transform="translate(150,50)">
+    <rect x="-130" y="-35" width="260" height="70" rx="10" class="steel" />
+    <text x="0" y="10" class="text">MarxSteel</text>
+  </g>
+</svg>
